@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E9jL1+yaVsjuqKj2bNwxZikRo+E3iTic2Kr9UAcxOL8ydhUNQQZZWoW7A+mF3rbUr/w7EXOChW3tyG+5V8L24g==",
+  "dgSpecHash": "Ny5nvmEwV90WLqu9aWUNYwk1nB9RuKjIhBZfVMbo4uEl+lZxg0iYACMPrRGRpBkdBG2ynzCM7x74FihjgG17UQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Teach\\TeachGoogleLogin\\TeachGoogleLogin\\TeachGoogleLogin.csproj",
+  "projectFilePath": "C:\\Users\\eerma\\Documents\\GitHub\\aspnet-google-login\\TeachGoogleLogin\\TeachGoogleLogin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eerma\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
     "C:\\Users\\eerma\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",

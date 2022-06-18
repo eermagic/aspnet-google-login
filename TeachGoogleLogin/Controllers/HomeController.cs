@@ -36,8 +36,8 @@ namespace TeachGoogleLogin.Controllers
         /// <returns></returns>
         public IActionResult ValidGoogleLogin()
         {
-            string? formCredential = HttpContext.Request.Form["credential"]; //回傳憑證
-            string? formToken = HttpContext.Request.Form["g_csrf_token"]; //回傳令牌
+            string? formCredential = Request.Form["credential"]; //回傳憑證
+            string? formToken = Request.Form["g_csrf_token"]; //回傳令牌
             string? cookiesToken = Request.Cookies["g_csrf_token"]; //Cookie 令牌
 
             // 驗證 Google Token
